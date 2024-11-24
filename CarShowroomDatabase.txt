@@ -1,0 +1,5 @@
+Toyota,Fortuner,2023,3300000
+BMW,X1,2023,5100000
+Mini Cooper,Mini Rdstr,2023,4500000
+Tata,Nexon EV,2023,2000000
+Cheverlet,Suburban,2023,12000000
